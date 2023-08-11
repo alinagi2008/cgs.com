@@ -223,7 +223,7 @@ i{
 }
 .perk{
    height: 107vh;
-   background-image: url(../Picture123.png);
+   background-image: url(./Picture123.png);
    background-size: 1100px;
    background-repeat: no-repeat;
    margin-top: 10px;
