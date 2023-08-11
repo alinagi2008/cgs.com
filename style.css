@@ -4,11 +4,12 @@ body{
    font-family: aharoni;
    overflow-x: hidden;
 }
-@media (max-width: 900px) {
+@media (max-width: 1000px) {
    html {
      display: none;
    }
  }
+ 
 .first{
    font-family: aharoni;
    margin: 0px;
